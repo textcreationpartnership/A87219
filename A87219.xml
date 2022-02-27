@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The impudence of the Romish whore: continued, and improved, in her shamelesse and barbarous brood of the Jrjsh rebells; calling themselves, His Majesties Catholike subjects. Discovered by a particular of certaine motives by them divulged, and falsly alledged to be the occasion of their late taking up armes: as also, by their oath of association, and by certain ridiculous and arrogant proposjtjons, which they have prepared, with a foolish hope, that they shall be condescended unto, by the King and Parliament of England. All which are here exemplified, with some briefe notes and observations upon them: by a Lover of his countrey. Published by Authority.</title>
+            <author>Lover of his country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87219</idno>
+            <idno type="STC">Wing I108</idno>
+            <idno type="STC">Thomason E44_13</idno>
+            <idno type="STC">ESTC R2551</idno>
+            <idno type="EEBO-CITATION">99872095</idno>
+            <idno type="PROQUEST">99872095</idno>
+            <idno type="VID">154474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154474)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E44[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The impudence of the Romish whore: continued, and improved, in her shamelesse and barbarous brood of the Jrjsh rebells; calling themselves, His Majesties Catholike subjects. Discovered by a particular of certaine motives by them divulged, and falsly alledged to be the occasion of their late taking up armes: as also, by their oath of association, and by certain ridiculous and arrogant proposjtjons, which they have prepared, with a foolish hope, that they shall be condescended unto, by the King and Parliament of England. All which are here exemplified, with some briefe notes and observations upon them: by a Lover of his countrey. Published by Authority.</title>
+                  <author>Lover of his country.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Austin,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M. DC. XLIV. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154474:1" rendition="simple:additions"/>
+            <p>THE IMPUDENCE <hi>OF THE</hi> Romiſh Whore: Continued, and improved, in her ſhameleſſe and barbarous Brood of the <hi>JRJSH REBELLS;</hi> Calling themſelves, <hi>His</hi> MAJESTIES <hi>Catholike Subjects.</hi>
+            </p>
+            <p>Diſcovered by a Particular of certaine MOTIVES by them divulged, and falſly alledged to be the Occa<g ref="char:EOLhyphen"/>ſion of their late taking up Armes:</p>
+            <p>
+               <hi>As alſo, By their</hi> Oath of Aſsociation, And by certain ridiculous and arrogant <hi>PROPOSJTJONS,</hi> Which they have prepared, with a fooliſh hope, that they ſhall be condeſcended unto, by the KING and PARLIAMENT of <hi>England.</hi>
+            </p>
+            <p>All which are here exemplified, with ſome briefe Notes and Obſervatious upon them: By a Lover of his Countrey.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>Printed by <hi>Robert Auſtin.</hi> M.DC.XLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154474:2"/>
+            <pb n="1" facs="tcp:154474:2"/>
+            <head>The Motives and Reaſons, which the Iriſh Rebels have publiſhed, as the occaſions of their taking up Arms; with brief Replies unto them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe <hi>Motives</hi> and <hi>Propoſitions</hi> following, lately publiſhed by the Popiſh <hi>Iriſh Rebels</hi> (and excel<g ref="char:EOLhyphen"/>lently diſcovering the ſhameleſſe inſolence, madneſſe, and folly of that barbarous Nation) came newly to my hands: which having per<g ref="char:EOLhyphen"/>uſed, I perceived the <hi>Motives</hi> to be ſo falſe, and the <hi>Propoſitions</hi> ſo abſurd, that me thought, I ſaw in them, and through them, the very <hi>Quinteſſence</hi> of that brutiſh <hi>Malignity,</hi> which might be extracted out of <hi>Popery,</hi> and <hi>Barbariſme,</hi> united. And, though they divul<g ref="char:EOLhyphen"/>ged theſe Conceptions of theirs, to advance their own deſignes, I judged it not amiſſe to further their publication, that the beſotted Engliſh may take notice of the ſting which is in the taile of thoſe dangerous Scorpions (newly invited, and entertained, by ſome of them, into their boſomes:) and to that purpoſe, therefore, I ſend them forth, with an <hi>Antidote</hi> preſſed out of their own poyſon, for the curing of the miſchiefs, and malignancy, which the might els, perhaps, occaſion, or increaſe; and you ſhall finde them, in briefe Notes, annexed to the ſeverall inſuing <hi>Motives,</hi> and <hi>Propoſitions,</hi> as they haſtily dropped from my Pen.</p>
+            <div type="part">
+               <head>The Rebells firſt Motive.</head>
+               <p n="1">I. <hi>It was plotted, and reſolved, by the Puritan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of England and Ireland, to extinguiſh quite the Catholike Religion, and the Profeſſors and Maintein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs thereof; and to put all Catholikes of this Realme to the Sword, that would not conforme themſelves to the Proteſtant Religion.</hi>
+               </p>
+               <p>There was no expreſſion of any purpoſe, in thoſe whom they call <hi>Puri<g ref="char:EOLhyphen"/>tans,</hi>
+nor in any other of the Engliſh Nation, to extirpate them, or their Po<g ref="char:EOLhyphen"/>piſh
+<pb n="2" facs="tcp:154474:3"/>
+Hereſies, otherwiſe then according to the Laws long ſince eſtabliſhed; &amp; no probability, of any ſecret, or publiſhed intent, to put any of them to the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>word, for their Religion, in a hoſtile, or illegall way; nor to puniſh them in a legall way, ſo much as their miſchievous and ſeditious activeneſſe often deſerved.</p>
+               <p n="2">II. <hi>The State of Ireland did publikely declare, that they would root out of the Realme all the Natives, and make a totall ſecond Conqueſt of the Land, al<g ref="char:EOLhyphen"/>ledging they were not ſafe with them.</hi>
+               </p>
+               <p>If the State of <hi>England,</hi> or <hi>Ireland,</hi> ever made any ſuch Declaration; it was not untill their bloudy, unequal'd, and inhumane maſſacres of the Britiſh Proteſtants were firſt, cauſleſly, and without provocation, both begun, and almoſt finiſhed. It was not before theſe Iriſh had taken up rebellious and perſidious Arms; nor was it then purpoſed, by the Britans, that any innocent Iriſh ſhould have ſuffered, either in body, or eſtate, though they, who judge the cruelty of other mens hearts by their own, falſly pretend this <hi>Motive.</hi>
+               </p>
+               <p n="3">III. <hi>All Natives here were deprived of the benefit of the ancient Funda<g ref="char:EOLhyphen"/>mentall Lawes, Liberties and Priviledges, due, by all Lawes, and Iuſtice, to a free People and Nation; and were particularly due by the Municipall Lawes of Ireland.</hi>
+               </p>
+               <p>This is falfe: for, the Iriſh were (for the moſt part) during many Ages paſt, a bruitiſh People, liuing under the Arbitrary tyrannies of their pettie Lords, according to rude Cuſtomes, more Heatheniſh, then Chriſtian; and having, inſtead of Eccleſiaſticall, or Civill Lawes, certain uncertain Traditi<g ref="char:EOLhyphen"/>ons, patched up, out of <hi>Popery, Prophaneneſſe,</hi> and <hi>Superſtition,</hi> without any conformity to Juſtice, or to ſuch Lawes as became a civillized Nation, untill their wildneſſe became regulated by the good example of the Engliſh, who gave them wholſome Lawes, yea, and Priviledges, and Freedomes from their Oppreſſors.</p>
+               <p n="4">IV. <hi>That the Subjects of Ireland, eſpecially the Iriſh, were thruſt out force<g ref="char:EOLhyphen"/>ably from their ancient poſſeſſions, againſt and without colour of Right, and could not have propriety, or ſecurity, in their eſtates, goods, or other rights, but were wholly ſubject to an Arbitrary Power, and Tyrannicall Government theſe forty years paſt, without any hope of reliefe or redreſſe.</hi>
+               </p>
+               <p>They had generally (except thoſe who forfeited their eſtates by wilfull Rebellion) the ſame right, and propriety which the Britans had; if they ſubmitted to the Lawes as they did. And if any propriety were taken from them, by a tyrannicall, or Arbitrary Power, it was by the corruption, and cruelty of thoſe, whom they now take to be their great Friends, and by whom the Britans, there, and we, here, alſo, were, and are, as much oppreſ<g ref="char:EOLhyphen"/>ſed, as they pretend to have been, in this <hi>Motive.</hi>
+               </p>
+               <p n="5">
+                  <pb n="3" facs="tcp:154474:3"/>V. <hi>Their native Youth debarred, by the practice of State, from all learn<g ref="char:EOLhyphen"/>ing and education, in that the onely Vniverſity here excludes all Catholikes thence; neither are they ſuffered to acquire learning, or breeding, beyond the Seas, on porpoſe to make them rude, and ignorant of all Letters.</hi>
+               </p>
+               <p>This is untrue; for the <hi>native Youth</hi> have as free libertie of education, in all good Studies, Arts and Sciences, as the Britans, and are debarred nothing, but what the Children of the ſaid Britans are alſo debarred, if they be not con<g ref="char:EOLhyphen"/>formable to the Lawes. Yea they are debarred nothing, but what is likewiſe miſchievous to themſelves, and repugnant to the Law of God; of which prohibitions none ought to complaine, ſeeing the like are in moſt other King<g ref="char:EOLhyphen"/>domes and States; much leſſe ought they to make it a motive of rebellion, or thereupon to inferre, that it is purpoſed meerly to keep their Youth ignorant of letters.</p>
+               <p n="6">VI. <hi>The Catholikes of this Kingdome are not admitted to any Dignities, Place, or Offices, either Military, or Civill, Spirituall, or Temporall, but the ſame are conferred upon men of no quality, who purchaſe it either for money, or favour, and not by merit.</hi>
+               </p>
+               <p>The Proteſtants are not admitted to Dignities Militarie, Civill, or Spiri<g ref="char:EOLhyphen"/>tuall in <hi>Spaine:</hi> were that a juſt Motive therefore (their Lawes not allowing it) for their Natives to take up Armes againſt the State, and murder, un<g ref="char:EOLhyphen"/>expectedly, their brethren, as theſe have done? Now if ſuch dignities were conferred for money, and on undeſerving men, it was done by their good Friends, and Patrons, onely, who did the like here, and therefore, me thinks, they ſhould have concealed their corruptions, till they had totally inſlaved them, which yet is but partly effected.</p>
+               <p n="7">VII. <hi>All the trading, trafficke, ſhipping, and riches, of this whole Iſle, by the corruption of the State, are ingroſſed by Dutch, Scottiſh, and Engliſh, not reſiding here, who exclude the Natives, wholly, from the ſame, and who re<g ref="char:EOLhyphen"/>turne the Product of all their ſtocke and coyne backe into their native Coun<g ref="char:EOLhyphen"/>treyes.</hi>
+               </p>
+               <p>This, if it were ſo, is alſo to be imputed, onely, to their deare friends at Court, whom they might have yet ſpared, in policie, or good manners.</p>
+               <p n="8">VIII. <hi>All the Staple and rich Commodities of the Realme are turned to Monopolies, and heavie impoſitions, againſt Law, laid on all Merchandizes.</hi>
+               </p>
+               <p>This was done by one of thoſe Prerogatives, which, they ſay, is invaded by the Puritan Faction in <hi>England.</hi> Therefore let them alſo blame, onely, their deare Friends for it: and, if they will be like themſelves, not complain againſt the Prerogative of monopolizing, till they have perfectly in vaſſalled the King to the Papall Monarchie. For Papiſts had the firſt Grants of moſt Monopolies in <hi>England,</hi> and <hi>Ireland,</hi> and ſold them to the Proteſtants, to lay the ſcandall on them.</p>
+               <p n="9">
+                  <pb n="4" facs="tcp:154474:4"/>IX. <hi>The principall native Wares of the Land exported into Forraigne Countreys, unwrought, and unmanufactured, thereby depriving the Kingdome of Manuall Trades, and Occupations, and driving the Natives to furniſh themſelves, from head to foot, with manufactures from abroad, at very deere Rate.</hi>
+               </p>
+               <p>This is not done by the Puritan Faction, but is performed, by vertue of that Prerogative, which they pretend to be invaded by the ſaid Puritans, therefore, me thinks, they ſhould not yet quarrell with it: and it ſeems reaſo<g ref="char:EOLhyphen"/>nable alſo, that they ſhould remember, their brethren, the native Iriſh, were, for the moſt part, ſuch a raſcall, idle people, that, if their Staple Commodities ſhould not have been exported, unwrought, they would have rotted in their hands: for it was long ere their ſotriſhneſſe could, by example, or compul<g ref="char:EOLhyphen"/>ſion, be brought to any honeſt labour; or from their ill cuſtome (in husband<g ref="char:EOLhyphen"/>rie) of drawing by the horſe-tailes, inſtead of harneſſe.</p>
+               <p n="10">X. <hi>All their heavy and inſufferable preſſures, proſecuted, and laboured, by the Natives of this Kingdome, with much ſuit, expence, and importunity, both in Parliament here, and in England, before His Majeſty, to be redreſſed: yet could never be brought to any happy concluſion, or as much as hope of content<g ref="char:EOLhyphen"/>ment, but alwayes deluded with delayes.</hi>
+               </p>
+               <p>What their ſucceſſes have been in Parliament, heretofore, I know not, nor what Motives they made; but if they were like their enſuing Propoſitions, they had as happy concluſions as they deſerved. If they were not unreaſon<g ref="char:EOLhyphen"/>able, yet Parliaments were not to be blamed: for they had not power to preſerve their own Priviledges, for many years together; and the Favourers and Confederates of theſe Iriſh Rebels were the cauſe of it.</p>
+               <p n="11">XI. <hi>Common Iuſtice, and the Rights, and Priviledges of Parliament, to all the Natives of the Realme, and ancient courſe of Parliamentary Proceed<g ref="char:EOLhyphen"/>ings, wholly declined.</hi>
+               </p>
+               <p>This is falſe: and were it true, it is but the ſame grievance which we have partly ſuffered by the Patrons of the fore-mentioned Rebels, who, we know, will remember it, and very zealouſly cut their throats, as well as our, in re<g ref="char:EOLhyphen"/>quitall thereof, (if God prevent not) as ſoon as their aimes are accompliſhed.</p>
+               <p n="12">XII. <hi>His Majeſties royall Power, Honour, Prerogative, Eſtate, Revenue, and Right, invaded upon by the Puritan Faction in England.</hi>
+               </p>
+               <p>May we believe, if the Divell ſhould ſay the Lords Prayer, and ſeeme zea<g ref="char:EOLhyphen"/>lous of advancing the Name, Will, Kingdome, and Glory of God, that he were in good earneſt? when we may confidently ſo do, then may we be aſ<g ref="char:EOLhyphen"/>ſured, that the Iriſh Papiſts take up Armes for defence of the Kings Ho<g ref="char:EOLhyphen"/>nour, &amp;c. Their own malice to the Britans, their covetouſneſſe, and the honour and prerogative of the Pope, were their prime inducements to rebel<g ref="char:EOLhyphen"/>lion;
+<pb n="5" facs="tcp:154474:4"/>
+and this, and all the reſt of their Motives to arme themſelves againſt us, were deviſed, after the treacherous outrages by them committed. Thoſe whom they call the Puritan Faction in <hi>England,</hi> have invaded none of the Kings juſt Prerogatives: but it will appeare, by the conditions of peace, ten<g ref="char:EOLhyphen"/>dered, by theſe Traitors, in the following Propoſitions, that they intend a greater invaſion upon the royall Power, Honour, and Prerogative, then hath been hitherto made, by thoſe whom they accuſe.</p>
+               <p n="13">XIII. <hi>The Government of all his Realmes, his Queene, Children, and Families, uſurped by the Parliament of England: and especially by the Houſe of Commons: as likewiſe the nominating, and dispoſing of his Privie Councell, Iudges, Clergy, Officers, Navies, Forts, and Caſtles, arrogated by the ſaid Houſe of Commons, leaving his Highneſſe nothing but the bare name of a King.</hi>
+               </p>
+               <p>The Parliament have taken upon them, no more, then by the Lawes and ancient Priviledges of the Kingdome, appertains unto it: For his Queene, Children, and Familie, ought to be regulated by the Lawes, whereof they are the ſupreme Judges; and the diſpoſure, and ordering of all particulars mentioned in this Motive, (eſpecially when the publike ſafety is in hazzard) belong unto the Parliament, though Rebels, and Malignants; pretend, igno<g ref="char:EOLhyphen"/>rantly, or inſolently, to the contrary: and thereby the King loſeth no Ho<g ref="char:EOLhyphen"/>nour (as theſe, and other of his diſguiſed enemies, would make ignorant peo<g ref="char:EOLhyphen"/>ple to believe) but His Majeſties dignity, and ſafety, is rather thereby ſecu<g ref="char:EOLhyphen"/>red, from the miſchiefs, and indignities, which theſe would bring upon him; who will not leave him, ſo much, as, they ſay, the Parliament hath left him, (the name of a King, and the benefit of living) if he ſhall, at laſt, faile their concealed expectations.</p>
+               <p n="14">XIV. <hi>The many affronts, and wrongs, done by the ſaid Houſe, to the Am<g ref="char:EOLhyphen"/>baſſadours of forraigne Princes, Confederates of His Majestie, reſiding in England; and to their Chaplains, and Servants, againſt the condition of the League, and the Law of Nations.</hi>
+               </p>
+               <p>What Affronts, theſe inſolent Animals can juſtly ſay, have been offered, by the Houſe of <hi>Commons,</hi> according as they object, no man ſhall ever heare: for, it is but a ſcandalous ſuggeſtion of that impudence which dares affirme a<g ref="char:EOLhyphen"/>ny falſhood; and judgeth it meritorious, to ſlander, and lie for the Catho<g ref="char:EOLhyphen"/>like Cauſe.</p>
+               <p n="15">XV. <hi>The groſſe injuries, and ſcandals, given by the ſaid Houſe of Com<g ref="char:EOLhyphen"/>mons, to the Queenes Maieſty, and her Chaplains, and Servants, in breach of the Articles made upon the Marriage.</hi>
+               </p>
+               <p>Theſe are the Champions, intituled, <hi>The Queenes Army,</hi> and you muſt not think much, if they lie, and raile, for Her, who have liſted themſelves to
+<pb n="6" facs="tcp:154474:5"/>
+fight under her Banner. Yet take notice, that this, and many other of theſe Motives, of taking up Armes, had neither colour, nor occaſion, of being the ground of their quarrell, till after their ſaid Armes were taken up, and the whole Kingdome of <hi>Ireland</hi> made as it were a bloudy ſlaughter-houſe by theſe Butchers. But, perhaps, they knew before hand, what occaſion their Jeſuiticall Directors would compell the Queene to give this Parliament, of being queſtioned; and what impeachments, would thereupon be drawne up: and therefore they barbarouſly murdered their neighbouring Proteſtants be<g ref="char:EOLhyphen"/>forehand; therefore they ſurprized thoſe harmleſſe Brittans in their beds, and houſes, before they dreamed of an enemy; and therefore they tooke up Armes, to be in readineſſe; and that, inſtead of a legall purgation, they might waſh her from future imputations, in the precious bloud of Innocents. As for thoſe Articles, and Conditions, of Her Marriage, and the Priviledges, thereby granted, to her Popiſh Prieſts, and Servants, they were made with<g ref="char:EOLhyphen"/>out the conſent of a Parliament, yea in deſpight of Parliament, and contrary to the Lawes, of God, and the Kingdome; therefore they ought rather to have been ſooner broken, then ſo long tolerated, as they were.</p>
+               <p n="16">XVI. <hi>The many horrible murders, Robberies, Pillages, Waſts, Burnings, and other execrable Cruelties, perpetrated of late, by the Proteſtants Army here, by publike direction of the State of this Realme, upon His Majeſties good Subjects of the Engliſh Pale, and other parts of the Land, they not offending a<g ref="char:EOLhyphen"/>gainſt the Laws, or Peace of the Realm but meerly ſtanding upon their own de<g ref="char:EOLhyphen"/>fence; and this done them, againſt His Majeſties pleaſure, &amp; without his privity.</hi>
+               </p>
+               <p>The impudence of every ſonne of the Babiloniſh Whore is very mon<g ref="char:EOLhyphen"/>ſtrous, but none like that of her Iriſh Baſtards. For, after they had com<g ref="char:EOLhyphen"/>mitted (I will uſe their owne words) ſo many horrid Murders, Robberies, Pillages, Waſts, Burnings, and other execrable Cruelties, upon the harmleſſe Proteſtants, living among them, who neither gave occaſion of offence, nor ſuſpected ſuch cruelty, till they felt the skenes in their throats: they are, ne<g ref="char:EOLhyphen"/>vertheleſſe, not aſhamed (contrary to their own, and our knowledge) to af<g ref="char:EOLhyphen"/>firme, that theſe cruelties were put in execution upon them, and by direction of the State of that Realme, before they tooke up Armes, or acted in the maſſacre of the Proteſtants; which is the moſt impudent falſhood, that ever was averred, by any child of the Devill. For, all the Brittiſh Iſles rung with the horrour of their helliſh cruelties, before the Proteſtants, whoſe brethren were murdered unawares, had ſo much as a thought of any ſuch offence, as was pretended; or of any ſuch defenſive preparatives, as have beene ſince made. Yea, it is generally knowne, that the remainder of the murdered Bri<g ref="char:EOLhyphen"/>tans in <hi>Ireland,</hi> tooke not up Armes, to prevent their totall extirpation, till that miſchiefe was begun and proceeded in, almoſt beyond prevention. And
+<pb n="1" facs="tcp:154474:5"/>
+that they then armed themſelves againſt theſe Rebells with his Majeſties pri<g ref="char:EOLhyphen"/>vitie and good liking, appeares (with his deteſtation of their inhumanity) by the Act of Parliament made againſt them, and confirmed by his Majeſty, as alſo by his owne voluntarie Declarations, often mentioning bleeding Ire<g ref="char:EOLhyphen"/>land, and remembring the Parliament not to be remiſſe in ſending ſupplies a<g ref="char:EOLhyphen"/>gainſt thoſe Miſcreants; though ſince termed his loyall Subjects: Therefore no tongue but Iriſh could have averred ſo apparent a falſhood, nor any but Popiſh Iriſh Traitors have dared to affirme, that our preparations to avenge the blood of his murthered Subjects and our Brethren, was without his Ma<g ref="char:EOLhyphen"/>jeſties privitie, and againſt his pleaſure, unleſſe they will confeſſe and prove his ſecret will to be contrary to that which was revealed.</p>
+               <p n="17">XVII. <hi>All the Natives in the Engliſh Plantations of this Realme were diſarmed by Proclamation, and the Proteſtant Plantators armed, and tied by the Condition of their Plantations, to have Armes, and to keep certain numbers of Horſe and Foot continually upon their Lands, by which advantage many thou<g ref="char:EOLhyphen"/>ſands of the Natives were expulſed out of their poſſeſſions, and many hanged by Martiall Law, without cauſe, and againſt the Laws of this Kingdom; and many of them other ways deſtroyed, and made away, by ſiniſter means and practices.</hi>
+               </p>
+               <p>That which is here affirmed is totally falſe, for, had the Natives been in<g ref="char:EOLhyphen"/>deed unarmed, and the Proteſtants armed, as by law they ought to have been, and as the trecherous condition of the Iriſh required; the publique peace had been yet preſerved: at leaſt ſuch Butcheries had not been committed. But the Britans were too ſecure, and ſo farre from uſing the cruelties againſt the Iriſh, or taking the advantages, laid to their charge, that they ſuppreſſed them not as they ought to have done; much leſſe hanged them as they deſerved: for which cauſe, they have ſince cut their throats, who ſaved them from the Gallowes.</p>
+               <p n="18">XVIII. <hi>Halfe this Realme was found to belong unto His Majeſty, as his ancient Demeaſne and Inheritance, upon old feigned titles of</hi> 300. <hi>yeares paſt, by Iudges, againſt Law, their Evidence, and Conſcience; who were corrupted, to finde the ſaid Titles, upon promiſe of part of thoſe lands ſo found for the King, or other rewards; or els drawne thereunto by threats of the Iudges of the Circuits, or by heavy Fines, Mulcts, and Cenſures of Pillory, Stigmati<g ref="char:EOLhyphen"/>zing, and other like cruell, and unuſuall puniſhments.</hi>
+               </p>
+               <p>What was unjuſtly found for the King by the corruption of Judges and others, let them anſwer for whom it concernes, as alſo to the reſt of this Article. For we have ſeen and felt ſo much injuſtice in England, that much of it, may perhaps be true: But me thinks Saint <hi>Patricks</hi> Beadſ-men ſhould have conſidered, that this imputation of injuſtice will more diſparage their friends at Court, then thoſe whom they account their enemies, for from them proceeded that injuſtice which was done.</p>
+            </div>
+            <div type="oath">
+               <pb n="8" facs="tcp:154474:6"/>
+               <div type="preface_to_oath">
+                  <head>The Preface to the Oath of Aſſociation, taken by the Iriſh Rebels.</head>
+                  <p>Whereas the Roman Catholikes of this Kingdome of Ireland have beene in<g ref="char:EOLhyphen"/>forced to take up Armes, for the neceſſary defence and preſervation, as well of their Religion, plotted, and reſolved to be quite ſuppreſſed by the Puritan Faction, as likewiſe of their Eſtates, and Liberties, and alſo for the defence and ſafeguard of His Majeſties Royall Power, Prerogatives, and Right, invaded upon: <hi>(which we will defend ſo farre forth onely as may ſerve our owne turnes)</hi> And for that it is requiſite there ſhould be an una<g ref="char:EOLhyphen"/>nimous conſent and reall union betweene all the Catholikes of this King<g ref="char:EOLhyphen"/>dome, to maintain the premiſes, and ſtrengthen them againſt their adver<g ref="char:EOLhyphen"/>ſaries: It is thought fit by them, that they, and whoſoever ſhould adhere unto their party, ſhould, for the better aſſurance of their fidelity and con<g ref="char:EOLhyphen"/>ſtancy of the publike Cauſe, take the inſuing Oath.</p>
+               </div>
+               <div type="oath_proper">
+                  <head>The Rebells Oath of Aſſociation.</head>
+                  <p>
+                     <hi>I A. B.</hi> do promiſe, vow, and make Proteſtation, before God and his Angels, of my Allegiance to my Soveraigne Lord King <hi>Charles,</hi>
+and to the Heires of his Body, Kings and Queenes of England: and that I will maintaine his and their juſt Prerogatives, Honour, Eſtate, and Rights: the Power and Priviledges of Parliament, and all the ancient and fundamentall Lawes of England, now of force within this Realm, ſo farre forth as they are not contrary, or againſt the Romane Catholike Religion: <hi>(this was well provided:)</hi> And do further promiſe, vow, and proteſt, before God and his Angels, that I, as Confederate and Aſſo<g ref="char:EOLhyphen"/>ciate to the reſt of the Confederate Catholikes of this Kingdome, will by all lawfull meanes maintaine, uphold, and defend, to my power, the free exerciſe of the ſaid Religion through this Kingdome, as alſo the juſt li<g ref="char:EOLhyphen"/>berties, poſſeſsions and eſtates of this Kingdome, who have or ſhall take this Oath, and performe the Contents thereof, with men, money, and other proviſion, as it ſhalbe reaſonably required, from time to time, by the ſaid Catholikes Confederates. And moreover, I will joyn with the ſame Confederates in any lawfull way, that ſhalbe agreed on by them, to free this Kingdome and Nation from the oppreſsions and cruell Govern<g ref="char:EOLhyphen"/>ment of the now State and Officers of this Realm, and from the deſignes or attempts of all others, that have plotted the deſtruction of the Roman
+<pb n="9" facs="tcp:154474:6"/>
+Catholike Religion within this Land, or the profeſſors thereof. And this Oath, and Proteſtation, and every part thereof, I do take free<g ref="char:EOLhyphen"/>ly, ſyncerely, and heartily, in the literall ſenſe, without any equivocati<g ref="char:EOLhyphen"/>on, or mentall reſervation, and ſhall not, for any cauſe, reſpect, or pre<g ref="char:EOLhyphen"/>tence, relinquiſh this Promiſe, Vow, or Proteſtation. So helpe me God, and the holy Goſpels.</p>
+                  <p>
+                     <hi>I would we were ſo cordiall and unanimous in our Aſſociations and Cove<g ref="char:EOLhyphen"/>nants, as it is probable they wilbe in this.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The meanes to reduce this Kingdome to Peace and Quietneſſe.</head>
+               <p>This Kingdome being for the moſt part compoſed of divers ancient Iriſh and Engliſh Families, the Iriſh having without ſtroake, or ſtriving, volunta<g ref="char:EOLhyphen"/>rily ſubmitted unto the Government of the Kings of England, and do glory, that His Majeſties Anceſtors and firſt Predeceſſors are of their owne bloud, <hi>(The Arrogant Rebels claime kindred, and would, forſooth, be coſens to the King)</hi> take pleaſure, and delight, and a conſcionable pride, to be ruled and commanded by him, and likewiſe the ancient Engliſh being Colonies ſetled here upon the firſt Conqueſt of this Kingdome (if Conqueſt it may be juſtly called) have ever ſince continued here, and by their faithfull indeavour, ſealed with their bloud, have maintained &amp; preſerved themſelves &amp; this Kingdom in their natural obedience <hi>(ſo long as they were kept under by ſtrong hand)</hi> to their Kings, being extremely provoked, with the indignities offered to their Prince, whom they naturally and paſſionately affect; and being all grieved to ſee and obſerve the gates of his mercy &amp; goodneſſe forceably ſhut by violence againſt his Catholike Subjects, may be nevertheleſſe reduced to peace, upon the granting and confirming to them, in Parliament, of the Conditions follow<g ref="char:EOLhyphen"/>ing, if the ſame be condeſcended unto, before bloud-letting make matters ir<g ref="char:EOLhyphen"/>reconcileable.</p>
+            </div>
+            <div type="part">
+               <head>The inſolent Propoſitions which the Iriſh Rebels have propounded at <hi>Oxford,</hi> as the Termes upon which they will treat of peace: with ſome briefe Obſer<g ref="char:EOLhyphen"/>vations upon them.</head>
+               <p n="1">I. <hi>Firſt that a generall, and free pardon, without any exception, be granted to all His Majeſties Subjects of this Kingdome, and that in purſuance thereof, and ſtrengthening of the ſame, an Act of Aſſociation may paſſe in Parlia<g ref="char:EOLhyphen"/>ment here.</hi>
+               </p>
+               <p>
+                  <pb n="10" facs="tcp:154474:7"/>Some good uſe might be made of ſome things to be taken from this Pro<g ref="char:EOLhyphen"/>poſition at another time, but not in the Iriſh ſenſe; for though I am not ſo uncharitable as to deny mercie to the whole Nation, without reſpect to the innocent, yet by my conſent, I would have no other peace then the Jewes had with the Amalekites, concluded with thoſe who were either a<g ref="char:EOLhyphen"/>ctors in the late Maſſacre of our brethren, or obſtinate in the Romiſh Super<g ref="char:EOLhyphen"/>ſtitions, for conſidering their principles and their condition, it is impoſſible there ſhould be ſafety in being at peace with them.</p>
+               <p n="2">II. <hi>That all marks of Nationall diſtinction between Engliſh and Iriſh may be aboliſht and taken away by Act of Parliament.</hi>
+               </p>
+               <p>This motion to ſome intents and purpoſes might be conſiderable, if the Kingdome were purged of bloody and obſtinate Hereticks.</p>
+               <p n="3">III. <hi>That by ſeverall Acts of Parliament to be respectively paſſed, here, and in England, it be declared, that the Parliament of Ireland hath no ſubor<g ref="char:EOLhyphen"/>dination to the Parliament of England, but that the ſame hath in it ſelfe ſu<g ref="char:EOLhyphen"/>preme Iuriſdiction in this Kingdome, as abſolute as the Parliament of England there hath.</hi>
+               </p>
+               <p>This is a meer Iriſh motion, raiſed out of witleſſe and rebellious preſump<g ref="char:EOLhyphen"/>tion, deſerving only to be ſcorned and paſſed by till opportunitie affords uſe of it.</p>
+               <p n="4">IV. <hi>That the Acts of</hi> 10. Hen. 7. <hi>commonly called</hi> Poynings <hi>Act, and all o<g ref="char:EOLhyphen"/>ther Acts expounding or explaining the ſame, may be repealed.</hi>
+               </p>
+               <p>Let this be referred to <hi>Poynings</hi> to report his opinion of the motion, and by my conſent let it be granted, when he certifies for the propounders.</p>
+               <p n="5">V. <hi>That as in England there paſſed an Act of Trienniall Parliament, there may paſſe another for a ſexenniall Parliament here.</hi>
+               </p>
+               <p>This, for ought I know, may be aſſented unto, when Ireland is reduced to obedience, and reſtored to peace.</p>
+               <p n="6">VI. <hi>That ſince this Kingdome, ſince</hi> S. Patricks <hi>time, continued conſtant in the Catholike Religion, and that the ſame was onely profeſſed in His Majeſties Dominions, unto the change happened in</hi> Henry 8. <hi>his time, upon occaſion known, though not fit to be repeated<g ref="char:punc">▪</g> and ſince that Religion is profeſſed by the moſt learned Divines throughout the moſt conſiderable parts of the Chriſtian world, and was never condemned, but was alwayes affirmed by all Oeconomicall Coun<g ref="char:EOLhyphen"/>cells, and that the ſame is moſt conſonant to the Monarchicall Government, which the oppoſites of Catholike Religion (as experience ſheweth, in all and e<g ref="char:EOLhyphen"/>very our neighbouring Countreys) induſtriouſly labour to diſſolve, deſtroy, and beat down: It may be enacted by Parliament, that the Acts of the ſecond of</hi> Q. Elizabeth <hi>in Ireland, and all other Acts made againſt Catholikes, or the Ca<g ref="char:EOLhyphen"/>tholike Religion, ſince the ſecond of</hi> Henry 8. <hi>may be repealed.</hi>
+               </p>
+               <p>
+                  <pb n="11" facs="tcp:154474:7"/>This Propoſition ſavours not ſo well now, as perhaps it would have done in Saint <hi>Patrick's</hi> daies, and therefore we will either referre it back to Saint <hi>Patrick's</hi> time, or leave it to be anſwered or condiſcended unto till Saint <hi>Pa<g ref="char:EOLhyphen"/>trick's</hi>
+time comes againe, for his Metropolitanſhip is of little authority at this preſent. What his Religion was we are uncertain; but we know very wel that the Religion of theſe Iriſh Rebels is very conformable to the Papall Mo<g ref="char:EOLhyphen"/>narchy, and very advantageous to thoſe temporall Monarks who are Vaſſalls thereunto, whileſt they can humour their Soveraigne Lord the Pope, or till his Holines growes froward or quarrelſome, for his private ends; and what conformity there is then between that which theſe call Saint <hi>Patrick's</hi> religi<g ref="char:EOLhyphen"/>on, and the temporall Monarchies of Chriſtian Princes, we are well inform<g ref="char:EOLhyphen"/>ed by thoſe Hiſtories which teſtifie the Papall pride and tyranny: But that it hath any conformity with our Britiſh Monarchie, which is bounded and regulated by the Lawes, I underſtand not: yet this I hope (whatever con<g ref="char:EOLhyphen"/>formity they ſeem to have) that inſtead of thoſe acts which theſe Rebells de<g ref="char:EOLhyphen"/>ſire ſhould be repealed to the reviving of Saint <hi>Patrick's</hi> Religion, (as they tearme their Hereſies) ſome other ſhall be enacted to help root it quite up; without any reſpect to their fooliſh hopes, or their falſe peace, or their moſt learned Divines, or their Oeconomicall Counſels, or their Iriſh Skenes, or their Catholique deviſes.</p>
+               <p n="7">VII. <hi>That the Biſhopricks, Deanries, and all other Spirituall Promotions of this Kingdome, and all Frieries and Nunneries, may be reſtored to the Ca<g ref="char:EOLhyphen"/>tholike Honours, and that the Impropriations of Tythes may likewiſe be reſto<g ref="char:EOLhyphen"/>red: and that the City, Ambits, and Precincts of the Religious Houſes of the Monks may be reſtored to them: but as for the reſidue of their temporall poſ<g ref="char:EOLhyphen"/>ſeſſions, it is not deſired to be taken from the preſent Proprietors, but to be left to them, untill that God ſhall otherwiſe incline their own hearts.</hi>
+               </p>
+               <p>This Propoſition with the next, and ſome other of thoſe that follow, were indeed the true inducements occaſioning the Iriſh Rebells (as they have con<g ref="char:EOLhyphen"/>feſſed) to take up Armes at this time, even their Biſhopricks, Deanries, Fry<g ref="char:EOLhyphen"/>eries, Nunneries, <hi>&amp;c.</hi> In hope of theſe they plunged themſelves into blood and Rebellion, and infeſted us with an unnaturall warre, fooliſhly dreaming that, now, to purchaſe our peace with them, we will be glad to allow them this and the reſt of their following demands, whereas (they deſerving nothing but the Gallowes) we ſhall diſdain, if all men be of my opinion, to have peace with them, whileſt they are Papiſts, upon any conditions<g ref="char:punc">▪</g> yea though they would give us all they had, and become ſlaves unto us for ever. Much more diſdaine we to give ought, though but to the value of a durty ragge, to be re<g ref="char:EOLhyphen"/>conciled unto them; becauſe by the principles of their Religion their peace will be worſe then warre to us; and as appeares by their late and ancient pra<g ref="char:EOLhyphen"/>ctiſes,
+<pb n="12" facs="tcp:154474:8"/>
+their friendſhip is deſtruction, their reconcilliations are but trecheries, and their embraces murthers: And none ſave a Nation more unreaſonable then Beaſts, having ſo trecherouſly and ſo inexpreſſibly exaſperated the Bri<g ref="char:EOLhyphen"/>tiſh Proteſtants by their late barbarous murthers of them, as theſe Iriſh have done, could have been ſo blockiſh as to believe that we ſhall ever confide in them, or in any peace concluded with them, till they have waſhed away their bloodſhed with penitentiall teares, and renounced the witchcrafts and abo<g ref="char:EOLhyphen"/>minations of the Romiſh Strumpet.</p>
+               <p n="8">VIII. <hi>That ſuch as are now intituled Catholike Archbiſhops, Biſhops, Ab<g ref="char:EOLhyphen"/>bots, or other Dignitaries in this Kingdome, by the donation of the Pope, may, during their lives, retaine their Spirituall Promotions, with Proteſtation ne<g ref="char:EOLhyphen"/>vertheleſſe, and other fit clauſes to be laid downe, for preſervation of His Majeſties Rights, of Patronage, Firſt Fruits, and tenth Parts, in manner and quantity as now His Majeſty receiveth benefit thereby.</hi>
+               </p>
+               <p>It would be too tedious to illuſtrate all the impudence and craft which is involved in this Propoſition, let the Reader therefore conſider it by himſelf.</p>
+               <p n="9">IX. <hi>That all Proteſtants, Engliſh and Scots, may injoy the free liberty and uſe of their Conſciences here, and not contribute to the maintenance of Catho<g ref="char:EOLhyphen"/>like Parſon, Vicar, or Curate, but ſhall maintaine their own Miniſters at their proper charge, and that all Iriſh Catholikes may injoy the like Priviledges in England and Scotland.</hi>
+               </p>
+               <p>Are not the Scots and Engliſh Proteſtants beholding to them, that they will but take away their Parſonages and Vicarages from their Miniſters? and not make them contribute alſo to their Catholique Parſons, Vicars, and Cu<g ref="char:EOLhyphen"/>rates? You ſee the Raſcalls will be content for a while to allow a tolleration of our Religion among them.</p>
+               <p n="10">X. <hi>That it may be lawfull for all Catholikes in this Kingdome, to found and indow Colledges in the ſame, as well for teaching and training of youth, as otherwiſe, they taking an Oath of Fidelity to the King.</hi>
+               </p>
+               <p>It ſhall be lawfull for them to be hanged, and then there will be no danger of their diſloyalty to the King.</p>
+               <p n="11">XI. <hi>That for the training up of the Gentry of this Kingdom in the common Lawes thereof, Innes of Court and Chancery may be erected, founded, and in<g ref="char:EOLhyphen"/>dowed, and ſuch Catholike Natives of this Kingdome as go to reſide, or ſtudy in any place, Vniverſity, Colledge, Innes of Court, or Chancery, in England, may injoy there, without moleſtation, the liberty of their Conſciences.</hi>
+               </p>
+               <p>This and the other 12. Propoſitions, whereto I have not leaſure to replie in particular, doe give us truly to underſtand what wee are to expect from this barbarous people, if it ſhould pleaſe God to put them into a prevailing
+<pb n="13" facs="tcp:154474:8"/>
+condition, to wit the totall extirpation both of us and our Religion, and the invaſſalling of the Crownes of England and Scotland to the Pope. Theſe are the unparalel'd preſumptions of his Majeſties Catholike Subjects of Ireland by whoſe aid his infatuated Counſell at Oxford ſeeks to ruine him and his tru<g ref="char:EOLhyphen"/>eſt Leige People, for the avoiding of their due puniſhment, and the ſatisfy<g ref="char:EOLhyphen"/>ing of their luſts. Theſe are thoſe murtherers of our Brethren whom the Queeens <hi>Iunto</hi> at Court complies withall, and have called hither for the ac<g ref="char:EOLhyphen"/>compliſhment of their bloody deſignes upon the Britans: Theſe are the re<g ref="char:EOLhyphen"/>ſults of thoſe confederacies, which <hi>Moah</hi> and <hi>Ammon</hi> and <hi>Amalek</hi> and the ſpirituall Canaanites (whom we preſerved among us contrary to the Lawes) have unhappily produced, to be not onely pricks in our ſides, &amp; thorns in our eyes, but the indangering alſo of all our happineſſe; theſe are the fruits of our fooliſh policies, and of thoſe curſed Marriages with Idolaters, which were hunted after with perill, and conſumated, as it were in deſpight of Gods Word and humane diſcretion: Theſe are the effects of hearkening unto flat<g ref="char:EOLhyphen"/>terers, and ſuch Counſellors as pervert the Lawes; and if God in mercy do not ſpeedily pluck the King from them, or teare them from about his Throne, a ſad concluſion wil ere long follow therupon: For doubtleſſe he that ſtrength<g ref="char:EOLhyphen"/>neth himſelf by the wicked, ſhall have his portion among them; he that had rather be eſtabliſhed in his Kingdome by the cruelties and ſavageneſſe of hy<g ref="char:EOLhyphen"/>pocriticall Rebells, then by the juſt and legall ſervices of loyall Subjects, may at laſt, inſtead of loyaltie, reap the fruit of their rebellion, whom he favou<g ref="char:EOLhyphen"/>red. But God open the eyes and heart of our Soveraigne, that he perceiving their fraud and miſchievous intentions, may returne in peace unto us, and be both an inſtrument and partaker of that happineſſe we deſire, to his honour, to our greater conſolation, and to the ſhame and confuſion of his and our ma<g ref="char:EOLhyphen"/>litious Adverſaries; who ſhall be ſnared in their owne Net, and taken by the wilineſſe of their owne imaginations.</p>
+               <p n="12">XII. <hi>That an Act of Parliament may paſſe here for ſecuring the ſubjects title to their ſeverall eſtates againſt the Crown, upon any title accrued unto it before</hi> 60. <hi>yeares, or under colour or pretext of the preſent Commotions.</hi>
+               </p>
+               <p n="13">XIII. <hi>That all Inquiſitions taken ſince</hi> 1634. <hi>to intitule His Majeſty to Connaught, Thomont, Ormond, Ellioganty, Killomanagh, Duhere, Wickloe, Idvogh, and Vone, may be vacated, and their eſtates ſecured, according to His Majeſties late Graces.</hi>
+               </p>
+               <p n="14">XIV. <hi>That all Plantations made ſince</hi> 1610. <hi>may be avoyded by Parliament, (if the Parliament ſhould hold this Act juſt) and their poſſeſſions reſtored to thoſe or their Heires from whom the ſame was taken, they nevertheleſſe anſwer<g ref="char:EOLhyphen"/>ing to the Crowne the Rents and ſervices proportionably reſerved upon the un<g ref="char:EOLhyphen"/>dertakers.</hi>
+               </p>
+               <p n="15">
+                  <pb n="14" facs="tcp:154474:9"/>XV. <hi>That the tranſportation of all Native Commodities to all places of the World in peace with his Majeſtie, may be lawfull, his cuſtomes firſt paid, and that the Statutes of the</hi> 10. 11. <hi>and</hi> 13. <hi>of Queen</hi> Elizabeth, <hi>to reſtraine the exportation of Native commodities, may be totally repealed.</hi>
+               </p>
+               <p n="16">XVI. <hi>That all preferments Eccleſiaſticall, Civill or Martiall, in this King<g ref="char:EOLhyphen"/>dome, that lye in his Majeſties guift, may be conferred on Natives of this King<g ref="char:EOLhyphen"/>dome by his Majeſtie, ſuch as he ſhall thinke meet, without any diſtinction of Re<g ref="char:EOLhyphen"/>ligion; provided alwaies that upon the Prime of his blood of England, he may beſtow what places of Command he ſhall think meet.</hi>
+               </p>
+               <p n="17">XVII. <hi>That a Marſhall and Admirall of this Kingdome may be erected in it, to have perpetuall ſucceſſion therein, with the ſame preheminence, authority, and juriſdiction, as they reſpectively have in England, and that the ſaid places be ever conferred on Noble men, Natives of this Kingdome.</hi>
+               </p>
+               <p n="18">XVIII. <hi>That there may be Trayned Bands in all Cities, Townes, Corpora<g ref="char:EOLhyphen"/>tions and Counties of this Kingdome, armed and provided at the charge of the ſeverall Counties, Cities and Towns, and commanded by the Natives of the ſame, who ſhalbe named by the Counties and Cities respectively.</hi>
+               </p>
+               <p n="19">XIX. <hi>That His Majeſty may releaſe all tenures</hi> in Capite, <hi>and by Knights Service, in conſideration whereof he ſhall receive a ſetled Revenue of</hi> 12000.<abbr>l.</abbr> per Annum, <hi>being double the ſumme which he received caſually by them. Re<g ref="char:EOLhyphen"/>liefe, Primier, Seiſure, Licenſe of Alienation, Eſcuage and Aid, neverthe<g ref="char:EOLhyphen"/>leſſe to remaine.</hi>
+               </p>
+               <p n="20">XX. <hi>That all Monopolies be ever taken away by Act of Parliament.</hi>
+               </p>
+               <p n="21">XXI. <hi>That ſuch new Corporations as have not the fare of Corporate Towns and were erected to gaine voices in Parliament, may be diſſolved, and their Votes taken away, and that hereafter none ſhalbe admitted to voices in Parliament.</hi>
+               </p>
+               <p n="22">XXII. <hi>That there may be an Agent choſen in Parliament, here or other<g ref="char:EOLhyphen"/>wiſe, as ſhalbe thought meet, ſo qualified to attend continually, his Majesty in Court, to repreſent the grievances of this Nation, that he may be removable by ſuch as choſe him, and in caſe of death or removall, others may be ſucceſſively ſubſtituted in that place, and that ſuch Agent may injoy the freedome of his con<g ref="char:EOLhyphen"/>ſcience in Court, and every where elſe.</hi>
+               </p>
+               <p>It is ſaid, that theſe Propoſitions are likely to be condeſcended unto (if not already aſſented unto) at Oxford; and that theſe Rebels, and their Con<g ref="char:EOLhyphen"/>federates, reſolve to have their demands, or els to deſtroy, or be deſtroyed; and it appears probable, both by the late Proclamations ſent abroad, and their firing of divers places, refuſing to ſubmit to their tyrannous commands. The Britans therefore may ſee whereto they ſhall truſt.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
